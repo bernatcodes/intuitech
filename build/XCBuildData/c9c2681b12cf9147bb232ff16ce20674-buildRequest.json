@@ -1,0 +1,51 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e981525df85de8b709ef763943a31b9090d"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e982ba148f6bf84ec38baac27af052d9ebd"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e989704c6b6eb15811ac82c11661aa29bf7"
+    }
+  ],
+  "containerPath" : "/Users/szabobernat/Desktop/Intuitech/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/szabobernat/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/szabobernat/Library/Developer/Xcode/DerivedData/Pods-esfugybmmeppxecowdiqmrtptydc/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/szabobernat/Library/Developer/Xcode/DerivedData/Pods-esfugybmmeppxecowdiqmrtptydc/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

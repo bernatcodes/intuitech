@@ -1,0 +1,12 @@
+"repository_list_title" = "Repositories";
+"repository_list_search_textfield_placeholder_text" = "Search git repositories here";
+"repository_list_search_button_title" = "Search";
+"repository_list_empty_list_title" = "No repositories loaded yet.";
+"repository_list_no_repositories_found_title" = "No repositories found with the given text.";
+"repository_list_error_title" = "Sorry, an error occured.\nPlease try again later.";
+"repository_detail_owner_name_title" = "Owner's name";
+"repository_detail_description_title" = "Description";
+"repository_detail_number_of_stars_title" = "Number of stars";
+"repository_detail_number_of_forks_title" = "Number of forks";
+"repository_detail_created_at_title" = "Created at";
+"repository_detail_updated_at_title" = "Updated at";

@@ -1,0 +1,20 @@
+PODS:
+  - Nimble (12.2.0)
+  - SwiftGen (6.6.2)
+
+DEPENDENCIES:
+  - Nimble
+  - SwiftGen (~> 6.0)
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - SwiftGen
+
+SPEC CHECKSUMS:
+  Nimble: d67da24eb9da4227b2dbbf4eb49cc29073c9066b
+  SwiftGen: 1366a7f71aeef49954ca5a63ba4bef6b0f24138c
+
+PODFILE CHECKSUM: f88855314126f8a11fde4ed8aada733a5792c30a
+
+COCOAPODS: 1.11.3

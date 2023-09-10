@@ -7,7 +7,20 @@
 		<key>Intuitech.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>9B74FD822AA8FA8000845E2E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9B74FD982AA8FA8100845E2E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

@@ -1,0 +1,12 @@
+"repository_list_title" = "Repository lista";
+"repository_list_search_textfield_placeholder_text" = "Itt tudsz keresni repository-kat";
+"repository_list_search_button_title" = "Keresés";
+"repository_list_empty_list_title" = "Még nem kerestél repository-kat.";
+"repository_list_no_repositories_found_title" = "Nem található repository a megadott keresési értékkel.";
+"repository_list_error_title" = "Sajnálom, hiba történt.\nKérem próbálja meg később.";
+"repository_detail_owner_name_title" = "Tulajdonos neve";
+"repository_detail_description_title" = "Leírás";
+"repository_detail_number_of_stars_title" = "Csillagok száma";
+"repository_detail_number_of_forks_title" = "Leágazások száma";
+"repository_detail_created_at_title" = "Létrehozás dátuma";
+"repository_detail_updated_at_title" = "Utolsó frissítés dátuma";

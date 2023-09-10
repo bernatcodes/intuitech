@@ -1,0 +1,5 @@
+Target dependency graph (3 targets)
+Pods-Intuitech in Pods, no dependencies
+Pods-Intuitech-IntuitechUITests in Pods, no dependencies
+Pods-IntuitechTests in Pods, depends on:
+Pods-Intuitech in Pods (explicit)
